@@ -13,6 +13,8 @@ window.plugins.NativeSettings.openSetting(settingName, success_callback, failure
 
 
 
+
+
 #NativeSettings plugin for Android and iOS 8 Cordova.
 
 The plugin allows you to open Settings view from Android Cordova application and to open Native App settings view from iOS 8 Cordova application. Based on https://github.com/raulduran/VideoPlayer.
